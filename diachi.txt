@@ -1,0 +1,100 @@
+0,Cao Thắng,Phường Tân Định,Quận 1,An Giang
+1,Cầm Bá Thước,Phường Đa Kao,Quận 12,Bà rịa – Vũng tàu
+2,Cô Bắc,Phường Bến Thành,Quận Thủ Đức,Bắc Giang
+3,Cô Giang,Phường Nguyễn Thái Bình,Quận 9,Bắc Kạn
+4,Chiến Thắng,Phường Phạm Ngũ Lão,Quận Gò Vấp,Bạc Liêu
+5,Duy Tân,Phường Cầu Ông Lãnh,Quận Bình Thạnh,Bắc Ninh
+6,Đào Duy Anh,Phường Cô Giang,Quận Tân Bình,Bến Tre
+7,Đào Duy Từ,Phường Nguyễn Cư Trinh,Quận Tân Phú,Bình Định
+8,Đặng Thai Mai,Phường Cầu Kho,Quận Phú Nhuận,Bình Dương
+9,Đặng Văn Ngữ,Phường Thạnh Xuân,Quận 2,Bình Phước
+10,Đoàn Thị Điểm,Phường Thạnh Lộc,Quận 3,Bình Thuận
+11,Đỗ Tấn Phong,Phường Hiệp Thành,Quận 10,Cà Mau
+12,Hải Nam,Phường Thới An,Quận 11,Cần Thơ
+13,Hoàng Diệu,Phường Tân Chánh Hiệp,Quận 4,Cao Bằng 
+14,Hoàng Minh Giám,Phường An Phú Đông,Quận 5,Đà Nẵng
+15,Hoàng Văn Thụ,Phường Tân Thới Hiệp,Quận 6,Đắk Lắk
+16,Hồ Biểu Chánh,Phường Trung Mỹ Tây,Quận 8,Đắk Nông
+17,Hồ Văn Huê,Phường Tân Hưng Thuận,Quận Bình Tân,Điện Biên
+18,Huỳnh Văn Bánh,Phường Đông Hưng Thuận,Quận 7,Đồng Nai
+19,Lam Sơn,Phường Tân Thới Nhất,Huyện Củ Chi,Đồng Tháp
+20,Lê Quý Đôn,Phường Linh Xuân,Huyện Hóc Môn,Gia Lai
+21,Nguyễn Văn Trỗi,Phường Bình Chiểu,Huyện Bình Chánh,Hà Giang
+22,Trương Minh Giảng,Phường Linh Trung,Huyện Nhà Bè,Hà Nam
+23,Eryaud des Vergnes,Phường Tam Bình,Huyện Cần Giờ,Hà Nội 
+24,Mai Văn Ngọc,Phường Tam Phú,,Hà Tĩnh
+25,Ngô Thời Nhiệm,Phường Hiệp Bình Phước,,Hải Dương
+26,Nguyễn Đình Chiểu,Phường Hiệp Bình Chánh,,Hải Phòng
+27,Nguyễn Đình Chính,Phường Linh Chiểu,,Hậu Giang
+28,Nguyễn Kiệm,Phường Linh Tây,,Hòa Bình
+29,Nguyễn Thị Huỳnh,Phường Linh Đông,,Hưng Yên
+30,Nguyễn Trọng Tuyển,Phường Bình Thọ,,Khánh Hòa
+31,Nguyễn Trường Tộ,Phường Trường Thọ,,Kiên Giang
+32,Nguyễn Văn Đậu,Phường Long Bình,,Kon Tum
+33,Nam Kỳ Khởi Nghĩa,Phường Long Thạnh Mỹ,,Lai Châu
+34,Ngô Đình Khôi,Phường Tân Phú,,Lâm Đồng
+35,Nhiêu Tứ,Phường Hiệp Phú,,Lạng Sơn
+36,Phan Đăng Lưu,Phường Tăng Nhơn Phú A,,Lào Cai
+37,Phan Đình Phùng,Phường Tăng Nhơn Phú B,,Long An
+38,Phan Tây Hồ,Phường Phước Long B,,Nam Định
+39,Phan Xích Long,Phường Phước Long A,,Nghệ An
+40,Phổ Quang,Phường Trường Thạnh,,Ninh Bình
+41,Thích Quảng Đức,Phường Long Phước,,Ninh Thuận
+42,Trần Cao Vân,Phường Long Trường,,Phú Thọ
+43,Trần Huy Liệu,Phường Phước Bình,,Phú Yên
+44,Trần Hữu Trang,Phường Phú Hữu,,Quảng Bình
+45,Trần Kế Xương,Phường 15,,Quảng Nam
+46,Trần Khắc Chân,Phường 13,,Quảng Ngãi
+47,Trần Văn Đang,Phường 17,,Quảng Ninh
+48,Trương Quốc Dung,Phường 06,,Quảng Trị
+49,Bà Huyện Thanh Quan,Phường 16,,Sóc Trăng
+50,Bàn Cờ,Phường 12,,Sơn La
+51,Cách Mạng Tháng Tám,Phường 14,,Tây Ninh
+52,Thuộc địa số 1,Phường 10,,Thái Bình
+53,Cao Thắng,Phường 05,,Thái Nguyên
+54,Điện Biên Phủ,Phường 07,,Thanh Hóa
+55,Đoàn Công Bửu,Phường 04,,Thừa Thiên Huế
+56,Hai Bà Trưng,Phường 01,,Tiền Giang
+57,Hồ Xuân Hương,Phường 09,,Trà Vinh
+58,Huỳnh Tịnh Của,Phường 08,,Tuyên Quang
+59,Kỳ Đồng,Phường 11,,Vĩnh Long
+60,Lê Ngô Cát,Phường 03,,Vĩnh Phúc
+61,Lê Quý Đôn,Phường 13,,Yên Bái
+62,Nguyễn Văn Trỗi,Phường 11,,
+63,Trương Minh Giảng,Phường 27,,
+64,Eyriaud des Vergnes,Phường 26,,
+65,Lý Chính Thắng,Phường 12,,
+66,Lý Thái Tổ,Phường 25,,
+67,Cô Bắc,Phường 05,,
+68,Cô Giang,Phường 07,,
+69,Cống Quỳnh,Phường 24,,
+70,Chu Mạnh Trinh,Phường 06,,
+71,Chương Dương,Phường 14,,
+72,Đặng Dung,Phường 15,,
+73,Đặng Tất,Phường 02,,
+74,Đặng Thị Nhu,Phường 01,,
+75,Đặng Trần Côn,Phường 03,,
+76,Đề Thám,Phường 17,,
+77,Đinh Công Tráng,Phường 21,,
+78,Đông Du,Phường 22,,
+79,Đồng Khởi,Phường 19,,
+80,Hai Bà Trưng,Phường 28,,
+81,Hải Triều,Phường 02,,
+82,Hàm Nghi,Phường 04,,
+83,Hàn Thuyên,Phường 12,,
+84,Hòa Mỹ,Phường 13,,
+85,Hồ Hảo Hớn,Phường 01,,
+86,Hồ Huấn Nghiệp,Phường 03,,
+87,Hồ Tùng Mậu,Phường 11,,
+88,Hoàng Sa,Phường 07,,
+89,Huyền Quang,Phường 05,,
+90,Huyền Trân Công Chúa,Phường 10,,
+91,Huỳnh Khương Ninh,Phường 06,,
+92,Huỳnh Thúc Kháng,Phường 08,,
+93,Ký Con,Phường 09,,
+94,Lê Anh Xuân,Phường 14,,
+95,Lê Công Kiều,Phường 15,,
+96,Lê Duẩn,Phường Tân Sơn Nhì,,
+97,Lê Lai,Phường Tây Thạnh,,
+98,Lê Lợi,Phường Sơn Kỳ,,
+99,Lê Thánh Tôn,Phường Tân Qúy,,

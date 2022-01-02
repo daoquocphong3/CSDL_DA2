@@ -9,7 +9,7 @@ SELECT* FROM SANPHAM ORDER BY GIABAN DESC
 --- theo loai san pham
 SELECT* FROM SANPHAM ORDER BY MALOAI
 
---2 Xuat don hang lap trong nam 2016
+--2 Xuat don hang lap trong nam 2020
 SELECT* FROM DONHANG WHERE YEAR(NGAYLAP) = 2020
 
 --3 Xuat SANPHAM ton kho nhieu nhat cua cua hang

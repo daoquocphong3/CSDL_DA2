@@ -1,7 +1,7 @@
 USE CONCUNG
 GO
 
---1 Danh sach san pham theo gia tang, giam, thep ten thuong hieu, loai san pham
+--1 Danh sach san pham theo gia tang, giam, loai san pham
 --- theo gia tang
 SELECT* FROM SANPHAM ORDER BY GIABAN ASC
 --- theo gia giam
